@@ -1,0 +1,20 @@
+{
+  "name": "AwesomeProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.37.0"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/VincentWYJ/AwesomeProject.git"
+  }
+}
